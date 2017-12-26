@@ -8,6 +8,13 @@ module.exports = {
   pathPrefix: '/gatsby-starter-blog',
   plugins: [
     {
+      resolve: `gatsby-plugin-ed-comments`,
+      options: {
+        commentsServerUrl: 'http://comments-for-e2e-test--gatsby-starter-blog-localhost.localhost',
+        commentsScriptUrl: 'http://comments-for-e2e-test--gatsby-starter-blog-localhost.localhost/-/ed-comments.v0.min.js',
+      }
+    },
+    {
       resolve: `gatsby-source-filesystem`,
       options: {
         path: `${__dirname}/src/pages`,
