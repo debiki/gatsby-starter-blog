@@ -11,7 +11,7 @@ module.exports = {
       resolve: `gatsby-plugin-ed-comments`,
       options: {
         commentsServerUrl: 'http://comments-for-e2e-test--gatsby-starter-blog-localhost.localhost',
-        commentsScriptUrl: 'http://comments-for-e2e-test--gatsby-starter-blog-localhost.localhost/-/ed-comments.v0.min.js',
+        commentsScriptUrl: 'http://comments-for-e2e-test--gatsby-starter-blog-localhost.localhost/-/ed-comments.js',
       }
     },
     {
