@@ -8,10 +8,10 @@ module.exports = {
   pathPrefix: '/gatsby-starter-blog',
   plugins: [
     {
-      resolve: `gatsby-plugin-ed-comments`,
+      resolve: `@debiki/gatsby-plugin-talkyard`,
       options: {
-        commentsServerUrl: 'http://comments-for-e2e-test--gatsby-starter-blog-localhost.localhost',
-        commentsScriptUrl: 'http://comments-for-e2e-test--gatsby-starter-blog-localhost.localhost/-/talkyard-comments.js',
+        talkyardServerUrl: 'http://comments-for-e2e-test--gatsby-starter-blog-localhost.localhost',
+        talkyardScriptUrl: 'http://comments-for-e2e-test--gatsby-starter-blog-localhost.localhost/-/talkyard-comments.js',
       }
     },
     {
