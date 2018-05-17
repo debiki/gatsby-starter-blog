@@ -10,6 +10,7 @@ module.exports = {
     {
       resolve: `@debiki/gatsby-plugin-talkyard`,
       options: {
+        talkyardDebug: 3456,
         talkyardServerUrl: 'http://comments-for-e2e-test--gatsby-starter-blog-localhost.localhost',
         talkyardScriptUrl: 'http://comments-for-e2e-test--gatsby-starter-blog-localhost.localhost/-/talkyard-comments.js',
       }
