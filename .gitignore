@@ -1,5 +1,8 @@
 node_modules/
-public
+
+# Do include, so won't need to rebuild in new VMs / laptops:
+#public
+
 .gatsby-context.js
 .DS_Store
 .intermediate-representation/
