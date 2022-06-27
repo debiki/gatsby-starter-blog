@@ -1,0 +1,60 @@
+{
+  "assetsByChunkName": {
+    "path---my-second-post": [
+      "path---my-second-post-03a1035abe7561da95b0.js",
+      "path---my-second-post-03a1035abe7561da95b0.js.map"
+    ],
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-51039b9bbfc98abe9adb.js",
+      "component---src-pages-index-js-51039b9bbfc98abe9adb.js.map"
+    ],
+    "path---": [
+      "path----557518bd178906f8d58a.js",
+      "path----557518bd178906f8d58a.js.map"
+    ],
+    "component---node-modules-gatsby-plugin-offline-app-shell-js": [
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
+    ],
+    "component---src-templates-blog-post-js": [
+      "component---src-templates-blog-post-js-4a9510d18e5b63c08436.js",
+      "component---src-templates-blog-post-js-4a9510d18e5b63c08436.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-5396ae9128ed70808bc5.js",
+      "component---src-layouts-index-js-5396ae9128ed70808bc5.js.map"
+    ],
+    "path---hi-folks": [
+      "path---hi-folks-99017e317f7f96cf5ee4.js",
+      "path---hi-folks-99017e317f7f96cf5ee4.js.map"
+    ],
+    "path---index": [
+      "path---index-a94e3a387a3c8592c76e.js",
+      "path---index-a94e3a387a3c8592c76e.js.map"
+    ],
+    "path---hello-world": [
+      "path---hello-world-d1bdaa95a605e44b3ac9.js",
+      "path---hello-world-d1bdaa95a605e44b3ac9.js.map"
+    ],
+    "commons": [
+      "commons-89d60b5b924ef4c6771c.js",
+      "build-js-styles.css",
+      "commons-89d60b5b924ef4c6771c.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---offline-plugin-app-shell-fallback": [
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "app": [
+      "app-9af3b73c3bf39179c994.js",
+      "build-js-styles.css",
+      "app-9af3b73c3bf39179c994.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---same-discussion-id-as-2nd-post": [
+      "path---same-discussion-id-as-2nd-post-bfc0ee291cb1fc87949b.js",
+      "path---same-discussion-id-as-2nd-post-bfc0ee291cb1fc87949b.js.map"
+    ]
+  }
+}
