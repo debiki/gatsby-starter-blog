@@ -10,8 +10,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-ed-comments`,
       options: {
-        commentsServerUrl: 'http://comments-for-e2e-test--gatsby-starter-blog-localhost.localhost',
-        commentsScriptUrl: 'http://comments-for-e2e-test--gatsby-starter-blog-localhost.localhost/-/ed-comments.js',
+        commentsServerUrl: 'http://comments-for-e2e-test--gatsby-starter-blog.localhost',
+        commentsScriptUrl: 'http://comments-for-e2e-test--gatsby-starter-blog.localhost/-/ed-comments.js',
       }
     },
     {
